@@ -1,2 +1,2 @@
-# Estancia-IImas
-This repository contains 
+# Intership-IImas
+This repository contains the codes from the Intership in IImas
